@@ -1,0 +1,1 @@
+**Virtual Desktop Manager**: Existing canonical source with ongoing development.

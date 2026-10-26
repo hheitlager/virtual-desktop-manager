@@ -1,0 +1,19 @@
+﻿# Local development snapshots
+/development/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+*~
+
+# Build artifacts
+/build/
+/dist/
+/out/
+
+# Editor and operating system files
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
