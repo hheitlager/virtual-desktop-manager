@@ -11,6 +11,12 @@
 /build/
 /dist/
 /out/
+*.exe
+*.dll
+*.obj
+*.o
+*.pdb
+*.log
 
 # Editor and operating system files
 .vs/
